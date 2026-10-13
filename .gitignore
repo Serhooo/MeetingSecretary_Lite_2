@@ -1,0 +1,24 @@
+# === Окружение ===
+.venv/
+__pycache__/
+*.pyc
+
+# === Модели и portable-runtime (гигабайты — на GitHub не поместятся) ===
+models/
+runtime/
+whisper-cache/
+
+# === Логи, сессии и готовые протоколы ===
+logs/
+recovery/
+*.pdf
+
+# === Пользовательские данные (профили голосов) ===
+speaker_profiles*.json
+
+# === Служебное ===
+Thumbs.db
+.DS_Store
+
+# Легаси-дубль README (в git входит только README.md)
+README_PORTABLE.md
