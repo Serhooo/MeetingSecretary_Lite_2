@@ -1,5 +1,7 @@
 # ИИ-Секретарь совещаний Lite 2
 
+<img width="896" height="601" alt="image" src="https://github.com/user-attachments/assets/d00edb4b-aa67-4b37-9490-5401a2c3a29b" />
+
 Отдельная portable-копия Lite для Windows: Whisper и GigaAM-v3 E2E RNNT, локальная Gemma GGUF, захват микрофона/системного звука, быстрый режим без диаризации и контекст повестки для протокола.
 
 ## Запуск
